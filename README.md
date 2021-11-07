@@ -9,3 +9,6 @@ List all the files under present directory:
 
 change working directory:
 > cd
+
+remove a working directory:
+> rm -r xxxx
