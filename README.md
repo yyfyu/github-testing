@@ -1,6 +1,6 @@
 # github-testing
 
-## Some Command Line Notes
+## The most useful Command Line Notes
 Print out present working directory:
 > pwd
 
@@ -9,3 +9,6 @@ List all the files under present directory:
 
 change working directory:
 > cd
+
+Create new directory:
+> mkdir xxx
