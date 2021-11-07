@@ -6,3 +6,6 @@ Print out present working directory:
 
 List all the files under present directory:
 > ls
+
+change working directory:
+> cd
